@@ -1,2 +1,1 @@
-# Deep-Learning
-ANN, CNN, Real Time Object Detection, Projects.....
+
