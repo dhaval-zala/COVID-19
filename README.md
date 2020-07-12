@@ -6,6 +6,10 @@ Covid X_ray data: https://github.com/ieee8023/covid-chestxray-dataset
 
 Here, VGG16 is used with transfer learning
 
+Confusion_matrix:
+
+![confusion_matrix](https://user-images.githubusercontent.com/68200424/87255856-fb224400-c4ab-11ea-8776-a8c761a5853a.png)
+
 Model Accuracy:
 classification report
 
