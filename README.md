@@ -1,4 +1,4 @@
-# Detecting COVID-19 from X-Ray
+# Detecting COVID-19 & Pneumonia from X-Ray
 
 Here, VGG16 is used with transfer learning
 
