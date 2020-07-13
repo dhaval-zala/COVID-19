@@ -1,6 +1,7 @@
 # Detecting COVID-19 from X-Ray
 
 Data:
+
 Pneumonia and Normal X_ray data: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia and
 Covid X_ray data: https://github.com/ieee8023/covid-chestxray-dataset
 
