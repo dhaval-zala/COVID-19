@@ -9,7 +9,7 @@ Pneumonia and Normal X_ray data: https://www.kaggle.com/paultimothymooney/chest-
 Covid X_ray data: https://github.com/ieee8023/covid-chestxray-dataset
 
 
-Confusion_matrix:
+Confusion_matrix of test data:
 
 ![confusion_matrix](https://user-images.githubusercontent.com/68200424/87255856-fb224400-c4ab-11ea-8776-a8c761a5853a.png)
 
